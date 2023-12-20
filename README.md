@@ -1,2 +1,2 @@
-The script uses ChatGPT for your own custom data and answersaccordingly.
-The constants.py file is to modeified and an API key inserted.
+The script uses ChatGPT for your own custom data and answers accordingly.
+The constants.py file is to be modified and an API key inserted.
